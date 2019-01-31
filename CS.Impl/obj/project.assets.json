@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxence.sailly\\source\\repos\\App1\\CS.Impl\\CS.Impl.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\gitRepository\\-LP-DIM-C-\\CS.Impl\\CS.Impl.csproj",
       "projectName": "CS.Impl",
-      "projectPath": "C:\\Users\\maxence.sailly\\source\\repos\\App1\\CS.Impl\\CS.Impl.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\gitRepository\\-LP-DIM-C-\\CS.Impl\\CS.Impl.csproj",
       "packagesPath": "C:\\Users\\maxence.sailly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxence.sailly\\source\\repos\\App1\\CS.Impl\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\gitRepository\\-LP-DIM-C-\\CS.Impl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
