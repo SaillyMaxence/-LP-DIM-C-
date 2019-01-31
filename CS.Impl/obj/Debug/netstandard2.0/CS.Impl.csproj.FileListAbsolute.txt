@@ -1,0 +1,10 @@
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\bin\Debug\netstandard2.0\CS.Impl.deps.json
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\bin\Debug\netstandard2.0\CS.Impl.dll
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\bin\Debug\netstandard2.0\CS.Impl.pdb
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\obj\Debug\netstandard2.0\CS.Impl.csproj.CoreCompileInputs.cache
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\obj\Debug\netstandard2.0\CS.Impl.AssemblyInfoInputs.cache
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\obj\Debug\netstandard2.0\CS.Impl.AssemblyInfo.cs
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\obj\Debug\netstandard2.0\CS.Impl.dll
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\obj\Debug\netstandard2.0\CS.Impl.pdb
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\obj\Debug\netstandard2.0\CS.Impl.csprojAssemblyReference.cache
+C:\Users\maxence.sailly\source\repos\App1\CS.Impl\obj\Debug\netstandard2.0\CS.Impl.csproj.ResolveComReference.cache
